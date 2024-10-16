@@ -370,7 +370,7 @@ section#about .container .row .about-service p {
 }
 
 .qr-image img {
-	max-width: 85%;
+	max-width: 80%;
  /* Make the image responsive */
 	height: auto;
 	border-radius: 10px;
