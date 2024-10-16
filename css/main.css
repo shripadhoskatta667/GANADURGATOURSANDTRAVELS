@@ -366,7 +366,7 @@ section#about .container .row .about-service p {
 .qr-image {
 	text-align: center;
  /* Center the image */
-	padding: 20px;
+	padding-left: 40px;
 }
 
 .qr-image img {
